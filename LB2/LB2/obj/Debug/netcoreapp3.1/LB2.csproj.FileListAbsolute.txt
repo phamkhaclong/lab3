@@ -1,0 +1,17 @@
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\bin\Debug\netcoreapp3.1\LB2.exe
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\bin\Debug\netcoreapp3.1\LB2.deps.json
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\bin\Debug\netcoreapp3.1\LB2.runtimeconfig.json
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\bin\Debug\netcoreapp3.1\LB2.runtimeconfig.dev.json
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\bin\Debug\netcoreapp3.1\LB2.dll
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\bin\Debug\netcoreapp3.1\LB2.pdb
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\obj\Debug\netcoreapp3.1\LB2.csprojAssemblyReference.cache
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\obj\Debug\netcoreapp3.1\LB2_MarkupCompile.cache
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\obj\Debug\netcoreapp3.1\LB2_MarkupCompile.lref
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\obj\Debug\netcoreapp3.1\LB2.g.resources
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\obj\Debug\netcoreapp3.1\LB2.AssemblyInfoInputs.cache
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\obj\Debug\netcoreapp3.1\LB2.AssemblyInfo.cs
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\obj\Debug\netcoreapp3.1\LB2.dll
+C:\Users\Danh\Desktop\Х-Ч-Ф-З\C#\LB2\LB2\obj\Debug\netcoreapp3.1\LB2.pdb
